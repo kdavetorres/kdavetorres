@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 # I'm Kim 👨‍💻
 
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kdtrrs/)[![Stackoverflow](https://img.shields.io/badge/stackoverflow-%231877F2.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11793411/kim?tab=profile)
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kdtrrs/)[![Stackoverflow](https://img.shields.io/badge/stackoverflow-%23FF0000.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11793411/kim?tab=profile)
