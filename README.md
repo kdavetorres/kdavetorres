@@ -29,7 +29,7 @@ Here are some ideas to get you started:
       - <a href="https://github.com/kdtrrs/BarkoMatic">BarkoMatic</a>
     </td>
     <td>
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdtrrs&theme=merko&langs_count=10&hide=less,scss,c,tsql,hack" />
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdtrrs&theme=merko&langs_count=10&hide=less,scss,c,tsql,hack&layout=compact" />
       <br/>
     </td>
   </tr>
