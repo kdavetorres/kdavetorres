@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/kdtrrs/BarkoMatic">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kdtrrs&repo=f&theme=merko" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kdtrrs&repo=BarkoMatic&theme=merko" />
 </a>
 
 <a href="https://github.com/kdtrrs/BiSpotTradingPlan">
