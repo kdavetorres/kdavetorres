@@ -34,8 +34,8 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
-<h5>Github Statistics 📊</h5>
-<p align="center">
+<h4>Github Statistics 📊</h4>
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kdtrrs&theme=merko&show_icons=true&layout=compact" />  <br/><br/>
   <br/>
   <br>
