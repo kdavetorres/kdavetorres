@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <table align="center">
   <tr>
     <td>
-      - 🔭 I’m currently working on <strong>BarkoMatic</strong>
+      - 🔭 I’m currently working on <strong>BarkoMatic</strong> system
       <br/>
       - 🌱 I’m currently learning <strong>JS, PHP, WordPress</strong>
       <br/>
