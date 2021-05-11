@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<style>
+  table {font-family:Arial;}
+  h2 {color:#333;}
+</style>
 <h2 align="center" style="color:#555;">👋 Hello! Welcome to my Github, I'm Kim!</h2>
 <table align="center">
   <tr>
