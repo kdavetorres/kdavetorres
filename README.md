@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">👋 Hello! Welcome to my Github, I'm Kim!</h2>
+<h3 align="center">👋 Hello! Welcome to my Github, I'm Kim!</h2>
 <table align="center">
   <tr>
-    <td style="padding-top:-200px">
+    <td>
       - 🔭 I’m currently working on <strong>BarkoMatic</strong>
       <br/>
       - 🌱 I’m currently learning <strong>JS, PHP, WordPress</strong>
@@ -34,4 +34,12 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+<h3 align="center">Kim Github Statistics 📊</h2>
+<p align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=kdtrrs&theme=merko&show_icons=true" /> <br/><br/>
+ <img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=kdtrrs&hide_title=true&hide_border=true&langs_count=5&layout=compact&v=2"/>
+ <img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Mashwishi&hide_title=true&hide_border=true&langs_count=5&layout=compact&v=2.png"/>
+  <br/>
+ <br>
+</p>
 <!-- [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kdtrrs/)[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/theitshow) -->
