@@ -14,11 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--INTRO-->
+
 ### Hi there, I'm [Kim!](https://kimdavetorres.github.io) 👋
 
 - 🔭 I’m currently working on [BarkoMatic](https://github.com/kdtrrs/BarkoMatic)
 - 🌱 I’m currently learning Javascript 
+
+📝 Future Projects:
+- BiSpotTradingPlan
 
 <a href="https://github.com/kdtrrs">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kdtrrs&theme=merko&show_icons=true&layout=compact" />
