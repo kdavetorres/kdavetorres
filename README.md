@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <table align="center">
   <tr>
     <td>
-      - 🔭 I’m currently working on <strong>BarkoMatic System</strong>
+      - 🔭 I’m currently working on <strong>BarkoMatic</strong>
       <br/>
       - 🌱 I’m currently learning <strong>JS, PHP, WordPress</strong>
       <br/>
@@ -26,13 +26,7 @@ Here are some ideas to get you started:
       <br/><br/>
       <strong>📝 Current Projects:</strong>
       <br/>
-        <a href="https://github.com/kdtrrs/BarkoMatic">BarkoMatic</a>
-     
-      <br/> <br/>
-      
-    <p align="center">
-      <a href="https://discord.gg/TJ2tnHCcV3"><img align="center" src="https://discordapp.com/api/guilds/779997243159216149/widget.png?style=banner2" alt="Discord Banner 2"/></a></p>
-      <br/>
+      - <a href="https://github.com/kdtrrs/BarkoMatic">BarkoMatic</a>
    </td>
     <td>
     <p align="center">
@@ -44,4 +38,4 @@ Here are some ideas to get you started:
    </td>
   </tr>
 </table>
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kdtrrs/)<!-- [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/theitshow) -->
+<!-- [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kdtrrs/)[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/theitshow) -->
