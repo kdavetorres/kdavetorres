@@ -36,12 +36,7 @@ Here are some ideas to get you started:
 </table>
 <h3 align="center">Kim Github Statistics 📊</h2>
 <p align="center">
-  <a href="https://github.com/kdtrrs/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kdtrrs&repo=github-readme-stats" />
-  </a>
-  <a href="https://github.com/kdtrrs/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kdtrrs&repo=convoychat" />
-  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kdtrrs&theme=merko&show_icons=true" />  <br/><br/>
   <br/>
   <br>
 </p>
