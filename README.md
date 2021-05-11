@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h2 align="center">👋 Hello! Welcome to my Github, I'm Kim!</h2>
 <table align="center">
   <tr>
-    <td align="left">
+    <td style="padding-top:-200px">
       - 🔭 I’m currently working on <strong>BarkoMatic</strong>
       <br/>
       - 🌱 I’m currently learning <strong>JS, PHP, WordPress</strong>
