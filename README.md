@@ -35,6 +35,10 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kdtrrs&repo=BarkoMatic&theme=merko" />
 </a>
 
+<a href="https://github.com/kdtrrs/BiSpotTradingPlan">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kdtrrs&repo=BiSpotTradingPlan&theme=merko" />
+</a>
+
 <a href="https://github.com/kdtrrs/iPlanner">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kdtrrs&repo=iPlanner&theme=merko" />
 </a>
