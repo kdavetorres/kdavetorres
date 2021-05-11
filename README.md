@@ -16,25 +16,11 @@ Here are some ideas to get you started:
 -->
 <!--INTRO-->
 ### Hi there, I'm [Kim!](https://kimdavetorres.github.io) 👋
-<table border="0">
-  <tr>
-    <td>
-      - 🔭 I’m currently working on <strong>BarkoMatic</strong> system
-      <br/>
-      - 🌱 I’m currently learning <strong>JS, PHP, WordPress</strong>
-      <br/>
-      - 📫 How to reach me: <a href="mailto:torres.kim.dave@gmail.com">Email</a> | <a href="https://www.facebook.com/kdtrrs/">Facebook</a>
-      <br/><br/>
-      <strong>📝 Current Projects:</strong>
-      <br/>
-      - <a href="https://github.com/kdtrrs/BarkoMatic">BarkoMatic</a>
-    </td>
-    <td>
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdtrrs&theme=merko&langs_count=10&hide=less,scss,pawn,tsql,hack,assembly&layout=compact" />
-      <br/>
-    </td>
-  </tr>
-</table>
+
+- 🔭 I’m currently working on [BarkoMatic](https://github.com/kdtrrs/BarkoMatic)
+- 🌱 I’m currently learning Javascript 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdtrrs&theme=merko&langs_count=10&hide=less,scss,pawn,tsql,hack,assembly&layout=compact" />
+
 <!--[GITHUB STATS](url)-->
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kdtrrs&theme=merko&show_icons=true&layout=compact" />  <br/><br/>
