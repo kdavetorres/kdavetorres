@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="center">👋 Hello! Welcome to my Github, I'm Kim!</h2>
-<table align="center">
+<table align="left">
   <tr>
     <td>
       - 🔭 I’m currently working on <strong>BarkoMatic</strong>
@@ -27,11 +27,11 @@ Here are some ideas to get you started:
       <strong>📝 Current Projects:</strong>
       <br/>
       - <a href="https://github.com/kdtrrs/BarkoMatic">BarkoMatic</a>
-   </td>
+    </td>
     <td>
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdtrrs&theme=merko&langs_count=10" />
       <br/>
-   </td>
+    </td>
   </tr>
 </table>
 <!-- [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kdtrrs/)[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/theitshow) -->
