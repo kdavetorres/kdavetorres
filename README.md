@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center" style="font-family:arial;color:#333;">👋 Hello! Welcome to my Github, I'm Kim!</h2>
+<h2 align="center" style="font-family:arial;color:orange !important;">👋 Hello! Welcome to my Github, I'm Kim!</h2>
 <table align="center" style="font-family:arial;color:#333;">
   <tr>
     <td>
