@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 <h2 align="center">Kim Github Statistics 📊</h2>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kdtrrs&theme=merko&show_icons=true" />  <br/><br/>
-  <img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=kdtrrs&hide_title=true&hide_border=true&langs_count=10&layout=compact&v=2" />
   <br/>
   <br>
 </p>
