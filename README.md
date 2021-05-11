@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there, I'm [Kim!](https://kimdavetorres.github.io) 👋
-<table align="center">
+<table>
   <tr>
     <td>
       - 🔭 I’m currently working on <strong>BarkoMatic</strong> system
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
-### Github Statistics 📊
+## Github Statistics 📊
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kdtrrs&theme=merko&show_icons=true&layout=compact" />  <br/><br/>
   <br/>
