@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">👋 Hello! Welcome to my Github, I'm Kim!</h2>
+<h2 align="center" style="color:#555;">👋 Hello! Welcome to my Github, I'm Kim!</h2>
 <table align="center">
   <tr>
     <td>
@@ -29,12 +29,12 @@ Here are some ideas to get you started:
       - <a href="https://github.com/kdtrrs/BarkoMatic">BarkoMatic</a>
     </td>
     <td>
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdtrrs&theme=merko&langs_count=10&&show_icons=true" />
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdtrrs&theme=merko&langs_count=10&show_icons=true" />
       <br/>
     </td>
   </tr>
 </table>
-<h3 align="center">Kim Github Statistics 📊</h2>
+<h2 align="center" style="color:#555">Kim Github Statistics 📊</h2>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kdtrrs&theme=merko&show_icons=true" />  <br/><br/>
   <br/>
