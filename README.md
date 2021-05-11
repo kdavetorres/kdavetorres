@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">👋 Hello! Welcome to my Github, I'm Kim!</h2>
+### Hi there, I'm [Kim!](https://kimdavetorres.github.io) 👋
 <table align="center">
   <tr>
     <td>
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
-<h2 align="center">Kim Github Statistics 📊</h2>
+### Github Statistics 📊
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kdtrrs&theme=merko&show_icons=true&layout=compact" />  <br/><br/>
   <br/>
