@@ -14,12 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<style>
-  table {font-family:Arial;}
-  h2 {color:#333;}
-</style>
-<h2 align="center" style="color:#555;">👋 Hello! Welcome to my Github, I'm Kim!</h2>
-<table align="center">
+<h2 align="center" style="font-family:arial;color:#333;">👋 Hello! Welcome to my Github, I'm Kim!</h2>
+<table align="center" style="font-family:arial;color:#333;">
   <tr>
     <td>
       - 🔭 I’m currently working on <strong>BarkoMatic</strong>
@@ -38,7 +34,7 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
-<h2 align="center" style="color:#555">Kim Github Statistics 📊</h2>
+<h2 align="center" style="font-family:arial;color:#333;">Kim Github Statistics 📊</h2>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kdtrrs&theme=merko&show_icons=true" />  <br/><br/>
   <br/>
