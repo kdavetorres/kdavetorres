@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--INTRO-->
 ### Hi there, I'm [Kim!](https://kimdavetorres.github.io) 👋
-<table>
+<table border="0">
   <tr>
     <td>
       - 🔭 I’m currently working on <strong>BarkoMatic</strong> system
@@ -34,7 +35,7 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
-[GITHUB STATS](url)
+<!--[GITHUB STATS](url)-->
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kdtrrs&theme=merko&show_icons=true&layout=compact" />  <br/><br/>
   <br/>
