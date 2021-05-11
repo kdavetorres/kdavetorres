@@ -29,10 +29,6 @@ Here are some ideas to get you started:
       - <a href="https://github.com/kdtrrs/BarkoMatic">BarkoMatic</a>
    </td>
     <td>
-    <p align="center">
-      <br/>
-      <a href="https://ko-fi.com/mashwishi"> <img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
-    </p>
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashwishi&theme=radical" />
       <br/>
    </td>
