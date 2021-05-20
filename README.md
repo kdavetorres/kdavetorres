@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm [Kim!](https://kimdavetorres.github.io) 👋
 
-- 🔭 I’m currently working on [BarkoMatic](https://github.com/kdtrrs/BarkoMatic)
+- 🔭 I’m currently working on [barkomatic](https://github.com/kdtrrs/BarkoMatic)
 - 🌱 I’m currently learning Javascript 
 
 <a href="https://github.com/kdtrrs">
