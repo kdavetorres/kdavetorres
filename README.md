@@ -12,9 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Hi there!👋
-
 <!--- 🔭 I’m currently working on [barkomatic](https://github.com/kdtrrs/BarkoMatic) -->
 <!--- - 🌱 I’m currently learning JavaScript and PHP -->
 
