@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <!--- - 🌱 I’m currently learning JavaScript and PHP -->
 
 <a href="https://github.com/aoirres">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aoirres&theme=merko&show_icons=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aoirres&theme=default&show_icons=true&layout=compact" />
 </a>
 
 <a href="https://github.com/aoirres">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoirres&theme=merko&langs_count=20&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoirres&theme=default&langs_count=100&layout=compact&custom_title=Skills&hide=pawn" />
 </a>
 
 <!-- [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kdtrrs/)[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/theitshow) -->
