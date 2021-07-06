@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm [Kim!](https://aoirres.github.io) 👋
+### Hi there, I'm [Kiem!](https://aoirres.github.io) 👋
 
 <!--- 🔭 I’m currently working on [barkomatic](https://github.com/kdtrrs/BarkoMatic) -->
 <!--- - 🌱 I’m currently learning JavaScript and PHP -->
