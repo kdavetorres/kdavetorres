@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/aoirres">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoirres&theme=default&langs_count=100&layout=compact&custom_title=Skills&hide=pawn" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoirres&theme=default&langs_count=100&layout=compact&hide=pawn" />
 </a>
 
 <!-- [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kdtrrs/)[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/theitshow) -->
