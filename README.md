@@ -23,4 +23,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/kim-div">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimdavetorres&theme=default&langs_count=6&layout=compact&hide=pawn,less,scss,html,blade,css,vue,hack,shell,tsql" />
 </a>
+
+![K.D.T GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdavetorres&show_icons=true&theme=dark)
+
 <!-- [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kdtrrs/)[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/theitshow) -->
