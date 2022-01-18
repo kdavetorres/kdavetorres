@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 </a> -->
 
 ### 😐👋!
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimdavetorres&theme=default&langs_count=5&layout=compact&hide=java,pawn,less,scss,html,blade,css,vue,hack,shell,tsql,assembly"/></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimdavetorres&theme=default&langs_count=90&layout=compact&hide=pawn,java,php,c,javascript,c%23,assembly&custom_title=Others"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimdavetorres&theme=default&langs_count=5&layout=compact&hide=java,pawn,less,scss,html,blade,css,vue,hack,shell,tsql,assembly"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimdavetorres&theme=default&langs_count=90&layout=compact&hide=pawn,java,php,c,javascript,c%23,assembly&custom_title=Others"/></p>
 
 ### Tools
 <img align="left" title="Xamarin" alt="Xamarin" width="26px" src="https://img.icons8.com/color/48/000000/xamarin.png" />
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <img align="left" title="Terminal" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></br>
 
 ### Connect with me
-<p><a href="www.linkedin.com/in/kimdavetorres" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
+<p><a align="left" href="www.linkedin.com/in/kimdavetorres" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>  
 
 <!-- ![K.D.T GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdavetorres&show_icons=true&theme=dark&layout=default) -->
 
