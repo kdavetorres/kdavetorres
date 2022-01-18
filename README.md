@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 </a> -->
 
 ### 😐👋!
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimdavetorres&theme=default&langs_count=5&layout=compact&hide=java,pawn,less,scss,html,blade,css,vue,hack,shell,tsql,assembly" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimdavetorres&theme=default&langs_count=90&layout=compact&hide=pawn,java,php,c,javascript,c%23,assembly&custom_title=Others" />
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimdavetorres&theme=default&langs_count=5&layout=compact&hide=java,pawn,less,scss,html,blade,css,vue,hack,shell,tsql,assembly"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimdavetorres&theme=default&langs_count=90&layout=compact&hide=pawn,java,php,c,javascript,c%23,assembly&custom_title=Others"/></p>
 
 ### Tools
 <img align="left" title="Xamarin" alt="Xamarin" width="26px" src="https://img.icons8.com/color/48/000000/xamarin.png" />
