@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### 😐👋
 ### Connect with me
-<div><a href="https://web.facebook.com/KimdexTM/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a><a href="https://linkedin.com/in/kimdavetorres/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></div></br>
+<div><a href="https://web.facebook.com/KimdexTM/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a><a href="https://linkedin.com/in/kimdavetorres/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://join.skype.com/invite/rbcHEEvNHMRZ" target="_blank"><img src="https://img.shields.io/badge/<handle>-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white"/></a></div></br>
 
 <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimdavetorres&theme=default&langs_count=5&layout=compact&hide=java,pawn,less,scss,html,blade,css,vue,hack,shell,tsql,assembly"/></div>
 <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimdavetorres&theme=default&langs_count=90&layout=compact&hide=pawn,java,php,c,javascript,c%23,assembly&custom_title=Others"/></div>
