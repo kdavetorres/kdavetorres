@@ -21,16 +21,17 @@ Here are some ideas to get you started:
 
 ### 😐👋
 ### Connect with me
-<div><a href="https://web.facebook.com/KimdexTM/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a><a href="https://linkedin.com/in/kimdavetorres/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://join.skype.com/invite/rbcHEEvNHMRZ" target="_blank"><img src="https://img.shields.io/badge/<handle>-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white"/></a></div></br>
+<!--- <a href="https://join.skype.com/invite/rbcHEEvNHMRZ" target="_blank"><img src="https://img.shields.io/badge/<handle>-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white"/></a> -->
+<div><a href="https://web.facebook.com/KimdexTM/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a><a href="https://linkedin.com/in/kimdavetorres/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></div></br>
 
 <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimdavetorres&theme=default&langs_count=5&layout=compact&hide=java,pawn,less,scss,html,blade,css,vue,hack,shell,tsql,assembly"/></div>
 <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimdavetorres&theme=default&langs_count=90&layout=compact&hide=pawn,java,php,c,javascript,c%23,assembly&custom_title=Others"/></div>
 
-### Tools
+<!-- ### Tools
 <div><img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" title="Xamarin" alt="Xamarin" width="26px" src="https://img.icons8.com/color/48/000000/xamarin.png" />
 <img align="left" title="Git" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" title="Terminal" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></div>
+<img align="left" title="Terminal" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></div>  -->
 
 <!-- ![K.D.T GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdavetorres&show_icons=true&theme=dark&layout=default) -->
 
