@@ -19,8 +19,8 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kim-div&theme=default&show_icons=true&layout=compact" />
 </a> -->
 
-### 😐👋
-### Connect with me
+<!-- ### 😐👋
+### Connect with me -->
 <!--- <a href="https://join.skype.com/invite/rbcHEEvNHMRZ" target="_blank"><img src="https://img.shields.io/badge/<handle>-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white"/></a> -->
 <div><a href="https://web.facebook.com/KimdexTM/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a><a href="https://linkedin.com/in/kimdavetorres/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></div></br>
 
